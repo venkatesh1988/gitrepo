@@ -1,2 +1,3 @@
 print('Hai')
-print('Hi')
+print('Hi ') 
+print('sample')
